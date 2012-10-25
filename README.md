@@ -7,3 +7,5 @@ Pod Bay Doors is a simple bit of Javascript and jQuery that does just what it so
 I've included [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/) so that we aren't stuck with jQuery's swing all of the time. 
 
 I eventually plan on making it a proper jQuery plugin with some options that you can pass in, but I just wanted to get a working version going right now.
+
+[You can view the demo here.](http://experiments.rodriguezcommaj.com/podbaydoors/index.html)
